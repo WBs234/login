@@ -1,5 +1,5 @@
 import os
-os.system(clear)
+os.system("clear")
 import time
 print(" _  _  _ ______       _______ _______  ______ _____  _____  _______")
 time.sleep(0.3)
