@@ -1,19 +1,26 @@
 import os
+import time
+
 os.system("clear")
-import time
-print(" _  _  _ ______       _______ _______  ______ _____  _____  _______")
+
+print(' _  _  _ ______       _______ _______  ______ _____  _____  _______')
 time.sleep(0.3)
-print(" |  |  | |_____]      |______ |       |_____/   |   |_____]    |   ")
+
+print(' |  |  | |_____]      |______ |       |_____/   |   |_____]    |   ')
 time.sleep(0.3)
-print(" |__|__| |_____]      ______| |_____  |    \_ __|__ |          |  ")
+
+print(' |__|__| |_____]      ______| |_____  |    \_ __|__ |          |  \n')
 time.sleep(1.0)
-print (" ")
+
 login = input("Login:")
-print (" ")
-import time
-print("Seu nome é" , login)
-input("certo? digite sim ou não ")
-print (" ")
-print (" ")
-print("Cadastrado com sucesso")
-print (" ")
+
+print ()
+time.sleep(1.0)
+
+print("Seu nome é: " + login)
+
+input("certo? digite sim ou não: ")
+time.sleep(1.0)
+
+print("\n\n")
+print("Cadastrado com sucesso\n")
