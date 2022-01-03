@@ -24,3 +24,11 @@ time.sleep(1.0)
 
 print("\n\n")
 print("Cadastrado com sucesso\n")
+os.system (clear)
+print(f"Olá, bem vindo {nome} ao meu teste de divisão")
+print(" ")
+num1=float(input(" digite o primeiro numero:"))
+num2=float(input("digite o segundo numero:"))
+divisao= num1/num2
+print(" ")
+print("resultado é ", divisao)
