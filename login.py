@@ -9,6 +9,5 @@ print(" |__|__| |_____]      ______| |_____  |    \_ __|__ |          |  ")
 time.sleep(1.0)
 login = imput("Login:")
 import time
-print("Seu nome é" , login , ",certo?"
-time.sleep(1.0)
+input("Seu nome é" , login , ",certo? digite sim ou não")
 print("Cadastrado com sucesso")
