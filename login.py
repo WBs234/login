@@ -8,6 +8,7 @@ time.sleep(0.3)
 print(" |__|__| |_____]      ______| |_____  |    \_ __|__ |          |  ")
 time.sleep(1.0)
 login = imput("Login:")
+import time
 print("Seu nome é" , login , ",certo?"
 time.sleep(1.0)
 print("Cadastrado com sucesso")
