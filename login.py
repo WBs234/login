@@ -10,5 +10,5 @@ time.sleep(1.0)
 login = imput("Login:")
 time.sleep(1.0)
 print("Seu nome é" , login , ",certo?"
-time.sleep("1.0")
+time.sleep(1.0)
 print("Cadastrado com sucesso")
