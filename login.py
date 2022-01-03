@@ -3,6 +3,10 @@ import time
 
 os.system("clear")
 
+class bcolors:
+    s = '\033[92m' #GREEN
+    Cadastrastrado com sucesso = '\033[93m' #YELLOW
+    n = '\033[91m' #RED
 print(' _  _  _ ______       _______ _______  ______ _____  _____  _______')
 time.sleep(0.3)
 
