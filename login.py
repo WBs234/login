@@ -19,13 +19,13 @@ time.sleep(1.0)
 
 print("Seu nome é: " + login)
 
-input("certo? digite sim ou não: ")
+input("certo? digite [s ou n]: ")
 time.sleep(1.0)
 
 print("\n\n")
 print("Cadastrado com sucesso\n")
 os.system ("clear")
-print(f"Olá, bem vindo {nome} ao meu teste de divisão")
+print(f"Olá, bem vindo {login} ao meu teste de divisão")
 print(" ")
 num1=float(input(" digite o primeiro numero:"))
 num2=float(input("digite o segundo numero:"))
