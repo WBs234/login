@@ -26,7 +26,7 @@ input("certo? digite [s ou n]: ")
 time.sleep(1.0)
 
 print("\n\n")
-print(033[92m"Cadastrado com sucesso\n")
+print("Cadastrado com sucesso\n")
 os.system ("clear")
 print(f"Olá, bem vindo {login} ao meu teste de divisão")
 print(" ")
