@@ -1,6 +1,6 @@
 import os
 os.system(clear)
-import.time                                                                                                                                                         ,,                     
+import time
 print("`7MMF'     A     `7MF'`7MMmmmYp,                                 db               mm")
 time.sleep(0.1)
 print("  `MA     ,MA     ,V    MM    Yb                                                  MM")
