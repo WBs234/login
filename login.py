@@ -1,18 +1,12 @@
 import os
 os.system(clear)
 import time
-print("\033[1;31m __      __ __________    _________                .__           __ ")
-time.sleep(0.1)
-print("/  \    /  \\______   \  /   _____/  ____  _______ |__|______  _/  |_")
-time.sleep(0.1)
-print("\   \/\/   / |    |  _/  \_____  \ _/ ___\ \_  __ \|  |\____ \ \   __\")
-time.sleep(0.1)
-print(" \        /  |    |   \  /        \\  \___  |  | \/|  ||  |_> > |  | ")
-time.sleep(0.1)
-print("  \__/\  /   |______  / /_______  / \___  > |__|   |__||   __/  |__| ")
-time.sleep(0.1)
-print("       \/           \/          \/      \/             |__|           
-time.sleep(0.1)
+print(" _  _  _ ______       _______ _______  ______ _____  _____  _______")
+time.sleep(0.3)
+print(" |  |  | |_____]      |______ |       |_____/   |   |_____]    |   ")
+time.sleep(0.3)
+print(" |__|__| |_____]      ______| |_____  |    \_ __|__ |          |  ")
+time.sleep(1.0)
 login = imput("Login:")
 time.sleep(1.0)
 print("Seu nome é" , login , ",certo?"
