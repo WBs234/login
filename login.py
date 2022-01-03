@@ -19,11 +19,11 @@ time.sleep(1.0)
 
 print("Seu nome é: " + login)
 
-input("certo? digite " , "\033[92m[s ou n]: ")
+input("certo? digite [s ou n]: ")
 time.sleep(1.0)
 
 print("\n\n")
-print("Cadastrado com sucesso\n")
+print("\033[92mCadastrado com sucesso\n\033[93m")
 os.system ("clear")
 print(f"\033[93mOlá, bem vindo {login} ao meu teste de divisão")
 print(" ")
